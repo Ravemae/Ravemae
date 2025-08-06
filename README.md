@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravemae
 - 👀 I’m interested in Computer Programming and AI/ML
-- 🌱 I’m currently learning Python and Full Stack Web Decelopment
+- 🌱 I’m currently learning Python and Full Stack Web Development
 - 💞️ I’m looking to collaborate on Projects and Paid jobs
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
