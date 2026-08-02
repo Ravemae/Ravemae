@@ -1,19 +1,19 @@
 <div align="center">
 
 <a href="https://github.com/ravemae">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vera+%F0%9F%91%8B;Backend+%26+AI+Engineer;Python+%7C+FastAPI+%7C+React+%7C+LLM+Integration;I+build+things+that+ship%2C+not+just+demos." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6FB5&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vera+%F0%9F%91%8B;Backend+%26+AI+Engineer;Python+%7C+FastAPI+%7C+React+%7C+LLM+Integration;I+build+things+that+ship%2C+not+just+demos." alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/vera-ezeanya">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FF6FB5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:veraezeanya.business@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D6336C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://quickmartapp.com.ng">
-  <img src="https://img.shields.io/badge/QuickMart-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QuickMart-FF85C0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -86,8 +86,10 @@ Computer Science undergraduate and backend-focused developer who builds real, pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
@@ -95,12 +97,12 @@ Computer Science undergraduate and backend-focused developer who builds real, pr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravemae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ravemae&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=FF6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravemae&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6FB5&icon_color=FF6FB5&text_color=ffffff&rank_icon=github" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ravemae&theme=radical&hide_border=true&background=0d1117&stroke=FF6FB5&ring=FF6FB5&fire=FF3D8A&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravemae&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravemae&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6FB5&text_color=ffffff" width="40%" />
 </div>
 
 ---
@@ -111,6 +113,32 @@ Computer Science undergraduate and backend-focused developer who builds real, pr
 - [ ] Getting hands-on with **AWS** (cloud fundamentals)
 - [ ] Expanding QuickMart into a multi-university marketplace
 - [ ] Building out testing (Pytest) and CI/CD workflows
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vera-ezeanya">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ravemae">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:veraezeanya.business@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D6336C?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<!-- Add more once you send handles, e.g.:
+<a href="https://twitter.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://instagram.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+-->
+
+</div>
 
 ---
 
