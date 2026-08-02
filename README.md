@@ -12,7 +12,7 @@
 <a href="mailto:veraezeanya.business@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D6336C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/ravemae/ravemae/blob/main/Vera Ezeanya_CV.pdf">
+<a href="https://github.com/ravemae/ravemae/blob/main/Vera_Ezeanya_CV.pdf">
   <img src="https://img.shields.io/badge/Resume-FF6FB5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 <a href="https://quickmartapp.com.ng">
@@ -51,6 +51,7 @@ Computer Science undergraduate and backend-focused developer who builds real, pr
 | 🤖 [**Mentora**](https://github.com/ravemae) | AI-powered developer assistant with structured AI query handling and multi-user auth. | `FastAPI` `React` `TypeScript` `OpenAI API` `Supabase` |
 | 📊 [**DATA-HIVE**](https://github.com/ravemae/DATA-HIVE) | Full data analysis platform — data cleaning, querying, and AI-driven insights, built with a 3-person team I led. | `Python` `Flask` `Pandas` `Gemini API` |
 | 🎬 [**MOVIES-SCRAP**](https://github.com/ravemae/MOVIES-SCRAP) | Python web scraper for movie data extraction and processing. | `Python` |
+| 👗 [**Stitches by Vee**](https://stitches-by-vee.vercel.app) | Fully responsive fashion brand website, built and deployed solo — from Figma design through to production. | `HTML5` `CSS3` `JavaScript` `Bootstrap` |
 
 ---
 
@@ -108,6 +109,14 @@ Computer Science undergraduate and backend-focused developer who builds real, pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravemae&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6FB5&text_color=ffffff" width="40%" />
 </div>
 
+**Most used across my repos:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
 ## 🎯 What I'm Working On
@@ -123,7 +132,7 @@ Computer Science undergraduate and backend-focused developer who builds real, pr
 
 <div align="center">
 
-<a href="https://github.com/ravemae/ravemae/blob/main/Vera Ezeanya_CV.pdf">
+<a href="https://github.com/ravemae/ravemae/blob/main/Vera_Ezeanya_CV.pdf">
   <img src="https://img.shields.io/badge/Resume-FF6FB5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/vera-ezeanya">
