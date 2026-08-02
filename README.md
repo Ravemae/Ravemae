@@ -12,6 +12,9 @@
 <a href="mailto:veraezeanya.business@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D6336C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://github.com/ravemae/ravemae/blob/main/Vera Ezeanya_CV.pdf">
+  <img src="https://img.shields.io/badge/Resume-FF6FB5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 <a href="https://quickmartapp.com.ng">
   <img src="https://img.shields.io/badge/QuickMart-FF85C0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
@@ -120,6 +123,9 @@ Computer Science undergraduate and backend-focused developer who builds real, pr
 
 <div align="center">
 
+<a href="https://github.com/ravemae/ravemae/blob/main/Vera Ezeanya_CV.pdf">
+  <img src="https://img.shields.io/badge/Resume-FF6FB5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/vera-ezeanya">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
