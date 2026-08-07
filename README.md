@@ -119,6 +119,17 @@ Computer Science undergraduate and backend-focused developer who builds real, pr
 
 ---
 
+## 📚 Certifications & Learning
+
+| Credential | Provider | Status |
+|-----------|----------|--------|
+| Beginners & Advanced Python Programming | Digital Fortress Institute | ✅ Complete |
+| Full Stack Web Development & UI/UX Design | Faith ICT Ltd | ✅ Complete |
+| Software Development Programme (Hajime Cohort) | TS Academy | 🔄 In Progress |
+| Backend AI Engineering Internship | FlyRank AI | 🔄 In Progress |
+
+---
+
 ## 🎯 What I'm Working On
 
 - [ ] Learning **React Native + Expo** for a personal mobile project
